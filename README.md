@@ -14,3 +14,4 @@ If you cannot access the GoogleDoc for somehow, please check out pdf files in sl
 
 ## Previous Lectures 
 * cf., http://bit.ly/TF_HKUST (3 day crash course using TensorFlow)
+
